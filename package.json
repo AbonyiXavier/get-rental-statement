@@ -1,0 +1,14 @@
+{
+  "name": "get-rental-statement",
+  "version": "1.0.0",
+  "description": "This is a simple project to get a rental statement from a list of rentals.",
+  "scripts": {
+    "start": "ts-node src/generateRentalStatement.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
